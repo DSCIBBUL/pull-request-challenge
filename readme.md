@@ -17,9 +17,8 @@ git config --list
 
 #Fresh Configuration
 
-git config --global user.name your-name
-git config --global user.email your-email
-
+git config --global user.name your-cherono-chelsea
+git config --global user.email your-cheronochelsea@gmail.com
 ```
 
 - Launch your command prompt or terminal
