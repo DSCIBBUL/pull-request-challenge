@@ -26,9 +26,11 @@ git config --global user.email your-email
 - Type cd documents
 - Type `git clone ***url***` on command prompt or terminal.
 
+- Type `cd pull-request-challenge` to enter the cloned directory as your current workspace on your terminal 
+
 4. Navigate to the folder(documents) to Open contributors.md and add your name and whatsApp number to the list.
 
-5. Tpe `git add -A`.
+5. Type `git add -A`.
 
 6. Type `git commit -m "added *insert name here* to contributors.md"`.
 
